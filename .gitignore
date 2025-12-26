@@ -1,0 +1,7 @@
+# Cargo generated files
+debug
+target
+
+# AoC puzzle inputs
+input
+test_input*
